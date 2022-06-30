@@ -1,4 +1,5 @@
-# Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK
+# Experiment-06
+
 ## AIM:
 To Design & simulate an environment for welding operation using robodk 
 
